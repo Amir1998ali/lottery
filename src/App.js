@@ -5,6 +5,7 @@ import web3 from "./web3";
 //important
 import lottery from './lottery';
 // first thing that runs
+
 class App extends React.Component {
   //called when it is showed on screen
   //constructor
